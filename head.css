@@ -1,0 +1,15 @@
+#header{
+    background-color: black;
+    position: absolute;
+    left: 0px;
+    height: 100px;
+    top: 0;
+    color: aliceblue;
+    width: 100%;
+    z-index: 200;
+    font-family: monospace;
+    font-size: 30px;
+    text-align: center;
+    text-align-last: center;
+    
+}

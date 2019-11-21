@@ -1,0 +1,37 @@
+
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  font-family: Arial;
+    padding: 25px;
+    position: absolute;
+    left: 0px;
+    width: 96.6%;
+    margin: 0;
+
+    
+    
+}
+.bar{
+    margin-top: 4.8%;
+}
+
+/* Links inside the navbar */
+.navbar a {
+    text-align: center;
+    font-family:monospace;
+  font-size: 30px;
+      color:cornflowerblue;
+  text-align: 100px;
+align-content: center;
+  padding: 25px 30px;
+  text-decoration: none;
+}
+
+
+/* Add a red background color to navbar links on hover */
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: red;
+}
+
